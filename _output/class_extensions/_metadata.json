@@ -1,0 +1,20 @@
+{
+    "XF-Admin-Controller-Forum_Host2x-Portal-XF-Admin-Controller-Forum.json": {
+        "hash": "3b0f570b46d10ae042ed76578e103381"
+    },
+    "XF-Entity-Thread_Host2x-Portal-XF-Entity-Thread.json": {
+        "hash": "2ffd514764b7770b2558174e1a64fea5"
+    },
+    "XF-Pub-Controller-Forum_Host2x-Portal-XF-Pub-Controller-Forum.json": {
+        "hash": "7590b88c0a1e52b87dee84188257d34f"
+    },
+    "XF-Pub-Controller-Thread_Host2x-Portal-XF-Pub-Controller-Thread.json": {
+        "hash": "d5bf03047c6105e5348dfb0af9c9a5d2"
+    },
+    "XF-Service-Thread-Creator_Host2x-Portal-XF-Service-Thread-Creator.json": {
+        "hash": "61eafd76c7adb46e11a70936e3a1f67d"
+    },
+    "XF-Service-Thread-Editor_Host2x-Portal-XF-Service-Thread-Editor.json": {
+        "hash": "d8a875ba35f07fc9faae80b35a0b837b"
+    }
+}

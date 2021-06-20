@@ -1,0 +1,9 @@
+{
+    "template": "helper_thread_options",
+    "description": "",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<xf:if is=\"$thread.canLockUnlock()\">",
+    "replace": "<xf:if is=\"($thread.isInsert() AND !$thread.Forum.host2x_portal_auto_feature AND $thread.canFeatureUnfeature())\n    OR ($thread.isUpdate() && $thread.canFeatureUnfeature())\"\n>\n    <xf:option label=\"{{ phrase('host2x_portal_featured') }}\" name=\"featured\" value=\"1\" selected=\"{$thread.host2x_portal_featured}\">\n        <xf:hint>{{ phrase('host2x_portal_featured_hint') }}</xf:hint>\n        <xf:afterhtml>\n            <xf:hiddenval name=\"_xfSet[featured]\" value=\"1\" />\n        </xf:afterhtml>\n    </xf:option>\n</xf:if>\n$0"
+}

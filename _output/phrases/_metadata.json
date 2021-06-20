@@ -1,0 +1,80 @@
+{
+    "host2x_portal_featured.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "15422d54ec0d47000dc86a9820a5237e"
+    },
+    "host2x_portal_featured_date.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "1f1765d4eca4edd3669e57564646f705"
+    },
+    "host2x_portal_featured_hint.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "13e87582745e0948e29c0880dbb2ae0f"
+    },
+    "host2x_portal_post_date.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "bec60391604287aee5be8e970f2486a6"
+    },
+    "option.host2xPortalDefaultSort.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "c2452e6e2732723454324545bb2f882c"
+    },
+    "option.host2xPortalFeaturedPerPage.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "39a386154bf0e10d82189ab60ad822b8"
+    },
+    "option_explain.host2xPortalDefaultSort.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.host2xPortalFeaturedPerPage.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_group.host2xPortal.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "19c973854be2a3f82d62f5376ebff1d1"
+    },
+    "option_group_description.host2xPortal.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "103e01e851a119a33b24e8a28f325b0c"
+    },
+    "permission.forum_host2xPortalFeature.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "8a3fb7195d64bca4de1c65464fa01f68"
+    },
+    "widget_pos.host2x_portal_view_sidebar.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "49e124e3836a9b2cab173c8080fe53bb"
+    },
+    "widget_pos_desc.host2x_portal_view_sidebar.txt": {
+        "global_cache": false,
+        "version_id": 100001,
+        "version_string": "1.0.0 Alpha",
+        "hash": "60584e865651e1e1ce3446e08b6eed81"
+    }
+}

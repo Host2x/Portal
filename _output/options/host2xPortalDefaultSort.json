@@ -1,0 +1,13 @@
+{
+    "edit_format": "radio",
+    "edit_format_params": "featured_date={{ phrase('host2x_portal_featured_date') }}\npost_date={{ phrase('host2x_portal_post_date') }}",
+    "data_type": "string",
+    "sub_options": [],
+    "validation_class": "",
+    "validation_method": "",
+    "advanced": false,
+    "default_value": "featured_date",
+    "relations": {
+        "host2xPortal": 2
+    }
+}
